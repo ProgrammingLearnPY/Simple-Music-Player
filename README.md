@@ -24,7 +24,7 @@ Here’s a screenshot of the **ProgrammingLearn Music Player** in action:
 
 If you prefer a video tutorial on how to use the **ProgrammingLearn Music Player**, check out this video on my YouTube channel:
 
-[Watch the tutorial](https://www.youtube.com/channel/UCmTJ3BqaTs2QN0-zLt3Me1w)
+[Watch the tutorial](https://www.youtube.com/watch?v=xXdjZS0pE8c)
 
 You can also follow my channel for more programming tutorials and project walkthroughs.
 ---
